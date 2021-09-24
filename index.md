@@ -29,6 +29,24 @@ Java
 C/ C++
 ```
 
+## Projects:
+
+### Non-native English speaking students in Computer Science
+
+1. Summary:
+   
+   In our study, we would like to understand more about the barriers that non-native English speakers face while solving a programming problem. Specifically, we focus on processes like thinking-aloud that are commonly used in programming interviews and the level to which non-native English speakers are able to read and understand programming language documentation written in English.
+
+2. Research Questions:
+   
+- We want to explore if there are any challenges that non-native English speakers face compared to that of native English speakers while talking through their steps for solving a programming problem.
+  
+- We want to learn if there is a difference in the way non-native English speakers read and understand programming language documentation written in English (e.g., Java Docs) when compared to native English speakers and whether this affects their performance on programming problems.
+
+3. Research poster:
+
+Please take a look at our [research poster](Research%20Project%20Poster.pdf) after 1 year conducting interviews with students.
+
 ## How to contact me?
 
 [LinkedIn](https://www.linkedin.com/in/angelina-le-11042000/)
@@ -37,14 +55,5 @@ C/ C++
 
 [Instagram](https://www.instagram.com/l.q.baongoc/)
 
-Picture (OK)
-Headings (OK)
-Styling text (OK)
-Quoting text (OK)
-Quoting code (OK)
-External Links (OK)
-Section links (OK)
-Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
-Ordered List
-Unordered Lists (OK)
+
 Task lists
