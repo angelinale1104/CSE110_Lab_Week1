@@ -5,7 +5,9 @@
 
 I am a third-year student at *University of California - San Diego (UCSD)* with an intended major in *Computer Engineering*. **I am seeking an internship in the software industry.**
 
-## How to describe myself?
+Take a look at my [RESUME](Resume.pdf)
+
+## How I describe myself:
 
 I am passionate about improving programming skills through hands-on experience and solving problems. I am a caring, organized, and hardworking individual who likes to collaborate with others, whether in an academic environment or a workplace. I also pay attention to detail and I am a fast learner. I aim for clear, thorough communication and having a comfortable yet professional interaction with others.
 
@@ -41,7 +43,8 @@ Styling text (OK)
 Quoting text (OK)
 Quoting code (OK)
 External Links (OK)
-Section links
+Section links (OK)
 Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
-Ordered and Unordered Lists
+Ordered List
+Unordered Lists (OK)
 Task lists
