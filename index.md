@@ -33,19 +33,34 @@ C/ C++
 
 ### Non-native English speaking students in Computer Science
 
-1. Summary:
+***1. Summary:***
    
    In our study, we would like to understand more about the barriers that non-native English speakers face while solving a programming problem. Specifically, we focus on processes like thinking-aloud that are commonly used in programming interviews and the level to which non-native English speakers are able to read and understand programming language documentation written in English.
 
-2. Research Questions:
+***2. Research Questions:***
    
 - We want to explore if there are any challenges that non-native English speakers face compared to that of native English speakers while talking through their steps for solving a programming problem.
   
 - We want to learn if there is a difference in the way non-native English speakers read and understand programming language documentation written in English (e.g., Java Docs) when compared to native English speakers and whether this affects their performance on programming problems.
 
-3. Research poster:
+***3. Research poster:***
 
 Please take a look at our [research poster](Research%20Project%20Poster.pdf) after 1 year conducting interviews with students.
+
+## My goals:
+
+### Career:
+
+- [ ] Find an internship at a tech company
+- [ ] Learn to write good and maintainable code
+- [ ] Learn to test code thoroughly and take time to fully debug everything before publishing these lines of code.
+- [ ] Always think about the users’ experiences and the social impact my program can make.
+- [ ] Be an ethical software engineer/ programmer.
+
+### Personal
+
+- [ ] Buy a house for my parents 🏡
+- [ ] Save enough money to travel 🏖
 
 ## How to contact me?
 
@@ -55,5 +70,3 @@ Please take a look at our [research poster](Research%20Project%20Poster.pdf) aft
 
 [Instagram](https://www.instagram.com/l.q.baongoc/)
 
-
-Task lists
